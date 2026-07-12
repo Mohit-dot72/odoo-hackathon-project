@@ -4,7 +4,7 @@ TransitOps is a production-ready, fully functional full-stack MERN platform buil
 
 ---
 
-## 🚀 Key Features
+### 🚀 Key Features
 
 - **Role-Based Session Guarding**: Custom dashboards tailored specifically for 5 distinct roles:
   - **Admin**: Full database access, onboard approval, role overrides.
