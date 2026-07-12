@@ -20,6 +20,8 @@ TransitOps is a production-ready, fully functional full-stack MERN platform buil
 - **Robust Mongoose Fallback Mode**: If no local MongoDB is detected on `127.0.0.1:27017` during startup, the application transparently falls back to an **In-Memory RAM database engine**, pre-seeding all credentials and dashboard curves automatically.
 
 ---
+<img width="1917" height="953" alt="image" src="https://github.com/user-attachments/assets/f0485942-74ea-4af6-bc50-b165609710e9" />
+
 
 ## 📁 Project Folder Tree
 
