@@ -129,3 +129,9 @@ Alternatively, authenticate manually using the following seeds:
 - **Safety Officer**: `safety@transitops.com`
 - **Financial Analyst**: `finance@transitops.com`
 - **Driver**: `driver@transitops.com`
+
+  ## Team Members-
+    >Mohit Kumar
+    >Manas Sharma
+    >Jai Deep
+    >Rahul Agrawal
