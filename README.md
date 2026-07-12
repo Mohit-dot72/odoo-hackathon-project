@@ -59,7 +59,6 @@ TransitOps/
 ---
 
 ## 🛠️ Getting Started & Launch Guide
-![Uploading Chandrayaan-2 Data-2026-07-12-090018.png…]()
 
 
 
